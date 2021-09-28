@@ -1,4 +1,4 @@
-#java_simple_game
+# java_simple_game
 자바를 이용해서 간단하고 쉬운거 구현
 
 목표
